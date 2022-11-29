@@ -69,13 +69,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-a3d5270e51d6.js"></script>
   
 
-  <title>NILAI-TAMBAHAN-PBO/README.md at main · fadilamin/NILAI-TAMBAHAN-PBO</title>
+  <title>NILAI-TAMBAHAN-PBO/Lingkaran.java at main · fadilamin/NILAI-TAMBAHAN-PBO</title>
 
 
 
     
 
-  <meta name="request-id" content="EDD3:4945:73B23F:7F8708:63860C68" data-turbo-transient="true" /><meta name="html-safe-nonce" content="9d02911be0f264bb0cb611a9d51775629759248327ff4b14c744ccfb00826ffa" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9mYWRpbGFtaW4vTklMQUktVEFNQkFIQU4tUEJPL2ZpbmQvbWFpbiIsInJlcXVlc3RfaWQiOiJFREQzOjQ5NDU6NzNCMjNGOjdGODcwODo2Mzg2MEM2OCIsInZpc2l0b3JfaWQiOiI4NzU5NTU1NzcxNDQ4OTA0NTQ4IiwicmVnaW9uX2VkZ2UiOiJzb3V0aGVhc3Rhc2lhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="b16d786a4cddd87c9f3d67baa37fb3f69778cd82f69414f664abf6c82f72e054" data-turbo-transient="true" />
+  <meta name="request-id" content="EDBC:372D:7406B8:7FE0F7:63860BDD" data-turbo-transient="true" /><meta name="html-safe-nonce" content="9d02911be0f264bb0cb611a9d51775629759248327ff4b14c744ccfb00826ffa" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9mYWRpbGFtaW4vTklMQUktVEFNQkFIQU4tUEJPL2ZpbmQvbWFpbiIsInJlcXVlc3RfaWQiOiJFREJDOjM3MkQ6NzQwNkI4OjdGRTBGNzo2Mzg2MEJERCIsInZpc2l0b3JfaWQiOiI4NzU5NTU1NzcxNDQ4OTA0NTQ4IiwicmVnaW9uX2VkZ2UiOiJzb3V0aGVhc3Rhc2lhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="6e87d5126936f25ab2567e9389243011872cc0c7ad472a0b48ee669c4460ea3d" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:572029156" data-turbo-transient>
@@ -114,11 +114,11 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/9aade05874b7974d769d3c30e62b3afb4df193326643302aab0227e99c58e48f/fadilamin/NILAI-TAMBAHAN-PBO" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="NILAI-TAMBAHAN-PBO/README.md at main · fadilamin/NILAI-TAMBAHAN-PBO" /><meta name="twitter:description" content="Contribute to fadilamin/NILAI-TAMBAHAN-PBO development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/9aade05874b7974d769d3c30e62b3afb4df193326643302aab0227e99c58e48f/fadilamin/NILAI-TAMBAHAN-PBO" /><meta property="og:image:alt" content="Contribute to fadilamin/NILAI-TAMBAHAN-PBO development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="NILAI-TAMBAHAN-PBO/README.md at main · fadilamin/NILAI-TAMBAHAN-PBO" /><meta property="og:url" content="https://github.com/fadilamin/NILAI-TAMBAHAN-PBO" /><meta property="og:description" content="Contribute to fadilamin/NILAI-TAMBAHAN-PBO development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/9aade05874b7974d769d3c30e62b3afb4df193326643302aab0227e99c58e48f/fadilamin/NILAI-TAMBAHAN-PBO" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="NILAI-TAMBAHAN-PBO/Lingkaran.java at main · fadilamin/NILAI-TAMBAHAN-PBO" /><meta name="twitter:description" content="Contribute to fadilamin/NILAI-TAMBAHAN-PBO development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/9aade05874b7974d769d3c30e62b3afb4df193326643302aab0227e99c58e48f/fadilamin/NILAI-TAMBAHAN-PBO" /><meta property="og:image:alt" content="Contribute to fadilamin/NILAI-TAMBAHAN-PBO development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="NILAI-TAMBAHAN-PBO/Lingkaran.java at main · fadilamin/NILAI-TAMBAHAN-PBO" /><meta property="og:url" content="https://github.com/fadilamin/NILAI-TAMBAHAN-PBO" /><meta property="og:description" content="Contribute to fadilamin/NILAI-TAMBAHAN-PBO development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/114378281/ws?session=eyJ2IjoiVjMiLCJ1IjoxMTQzNzgyODEsInMiOjEwMDI4NzYyNjAsImMiOjM3NjU4NDQyODYsInQiOjE2Njk3MjkzODR9--d1f601d73181cb8d89b72501e9d859ac0e7387ec5ad126f8bc93decabfb9b4c7" data-refresh-url="/_alive" data-session-id="77d2fd4330af633929c716f075edcc17accefdc5538163bd954efe78ca4c9a13">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/114378281/ws?session=eyJ2IjoiVjMiLCJ1IjoxMTQzNzgyODEsInMiOjEwMDI4NzYyNjAsImMiOjM5NzQzNzI0MDAsInQiOjE2Njk3MjkyNDZ9--e1b6367058fee2da8db80b059d996480e21898e86eeae7c7d800e482ca2e8749" data-refresh-url="/_alive" data-session-id="77d2fd4330af633929c716f075edcc17accefdc5538163bd954efe78ca4c9a13">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b87581f5816c.js">
 
 
@@ -148,7 +148,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/fadilamin/NILAI-TAMBAHAN-PBO/blob/main/README.md" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/fadilamin/NILAI-TAMBAHAN-PBO/blob/main/Lingkaran.java" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -240,7 +240,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="lfJUs9Z4bmO5JbYKv8hPg9DHjd_z5sWo44scFXgveUa-9TOzfT90P16M0FA9nfPtHlpBvzQY8rl1Jt5ulrglGw" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="nzlWDvNdW_S3FUvoGmzets-FGT7-e19l3Yo2BBQPIDa0PjEOWBpBqFC8LbKYOWLYARjVXjmFaHRLJ_R_-ph8aw" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -439,7 +439,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;GilangRamadhan33&quot;,&quot;originating_url&quot;:&quot;https://github.com/fadilamin/NILAI-TAMBAHAN-PBO/blob/main/README.md&quot;,&quot;user_id&quot;:114378281}}" data-hydro-click-hmac="b663f85fcf1e2eb5c5ca4a2010637cb472dcc5b5f977c0a572be50aaa2310c1f" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;GilangRamadhan33&quot;,&quot;originating_url&quot;:&quot;https://github.com/fadilamin/NILAI-TAMBAHAN-PBO/blob/main/Lingkaran.java&quot;,&quot;user_id&quot;:114378281}}" data-hydro-click-hmac="836e58121cb3a0e343e737074ac13796e11e8da8e26a44090832fac1660d4016" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -447,7 +447,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/114378281?s=40&amp;v=4" width="20" height="20" alt="@GilangRamadhan33" />
       GilangRamadhan33
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="kIhkKFsWuoPEXSvNfmRQTOHTR1lRpnFtIB1tczs4RMVbalh97lcN-YixF5sWcNGoMJY9nFpzmt8WN7ORbyvwdw" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="p2ldF582qDendT7yqr8tPiQH8f0zcRYifmBkl5Webqhsi2FCKncfTeuZAqTCq6za9UKLODik_ZBISrp1wY3aGg" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -482,7 +482,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTE0Mzc4MjgxIiwidCI6MTY2OTcyOTM4NH0=--ea7361c82d310226e24c47e43b3f89838ad05e7f1a449eb173f3d2920a355fa3" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTE0Mzc4MjgxIiwidCI6MTY2OTcyOTI0Nn0=--3b638fe87f11c73138511c70eff80a106287e8e0765afc44fcc16ab7217adab5" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -639,7 +639,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/fadilamin/NILAI-TAMBAHAN-PBO/blob/main/README.md
+      return-to=/fadilamin/NILAI-TAMBAHAN-PBO/blob/main/Lingkaran.java
       user-id="114378281"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -1605,7 +1605,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:572029156,&quot;originating_url&quot;:&quot;https://github.com/fadilamin/NILAI-TAMBAHAN-PBO/blob/main/README.md&quot;,&quot;user_id&quot;:114378281}}" data-hydro-click-hmac="09602dfe5111d3d4f9f2cbf9af7b0878c811941c56838e56f02744d7991c47b1" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:572029156,&quot;originating_url&quot;:&quot;https://github.com/fadilamin/NILAI-TAMBAHAN-PBO/blob/main/Lingkaran.java&quot;,&quot;user_id&quot;:114378281}}" data-hydro-click-hmac="5106a94df79a636733e08dd5348752a881686857bc76af740855fc50519358c6" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               hidden
               
@@ -1657,7 +1657,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="h_BPvqabsnsaCwSXYQTvMpwTfBx_GPft731DwiApEGkYyPwLHUevZ-ezKrQPwdYEzy_gwU3zktp-8XpBNIWqMA" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="QQNQY1swgO4UFzEap2XjpjsgOX9QlqQYAsZs5StY8XbeO-PW4Oyd8umvHznJoNqQaBylomJ9wS-TSlVmP_RLLw" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="572029156">
 
@@ -1785,7 +1785,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="rce2rVmRJF2Gi6dHtoPmQqBm4dN-ah58O-JQ5qqc0J8y_wUY4k05QXsziWTYRt9081p9DkyBe0uqbmllvjBqxg" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="GHZvwIzU1oqUhZXhRGkBSl7_xzAQfiqwco3nlsn3XVCHTtx1NwjLlmk9u8IqrDh8DcNb7SKVT4fjAd4V3VvnCQ" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="572029156">
 
@@ -1936,7 +1936,7 @@
 
   <li>
         <div data-view-component="true" class="BtnGroup">
-        <a icon="repo-forked" href="/fadilamin/NILAI-TAMBAHAN-PBO/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:572029156,&quot;originating_url&quot;:&quot;https://github.com/fadilamin/NILAI-TAMBAHAN-PBO/blob/main/README.md&quot;,&quot;user_id&quot;:114378281}}" data-hydro-click-hmac="b44bb4d34ea6f986317e842aa81c49bc745230cf6cdb6ae3c01e7d62d430c297" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of fadilamin/NILAI-TAMBAHAN-PBO" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+        <a icon="repo-forked" href="/fadilamin/NILAI-TAMBAHAN-PBO/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:572029156,&quot;originating_url&quot;:&quot;https://github.com/fadilamin/NILAI-TAMBAHAN-PBO/blob/main/Lingkaran.java&quot;,&quot;user_id&quot;:114378281}}" data-hydro-click-hmac="80b32578c7d0331554604e62ae93f17a5979694687db23d39ce39b4b2b8e2c93" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of fadilamin/NILAI-TAMBAHAN-PBO" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter">0</span>
@@ -1954,13 +1954,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-b0497e">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-ad3670">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-b0497e"
+        id="filter-menu-ad3670"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2002,10 +2002,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/fadilamin/NILAI-TAMBAHAN-PBO/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="KZd6VF3_ZpowO_qv_NIJzOGbqQ6-ChVpP1UaRb6w9bQxdOjLRIlSEC9qJRRv5rlMolV1ajhyvTg5WLGmg0Sy9A" autocomplete="off" />
-          <input type="hidden" value="OJs7vhx8NvGlTizg1k6sBftAK0lBXcAzs_dYsKzMyqogeKkhBQoCe7of81tFehyFuI73LcclaGK1-vNTkTiN6g" data-csrf="true" class="js-confirm-csrf-token" />
+      <form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/fadilamin/NILAI-TAMBAHAN-PBO/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="queSo5l9-P28vFjrS7_hHIqNH4Hh7_RMzmYJO61SoGGyBAA8gAvMd6Pth1DYi1GcyUPD5WeXXB3Ia6LYkKbnIQ" autocomplete="off" />
+          <input type="hidden" value="4Qock47j7DtozSgAuz0TJtRKaU5xz2foD4na0Awi5KH56Y4Ml5XYsXec97soCaOml4S1Kve3z7kJhHEzMdaj4Q" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:572029156,&quot;originating_url&quot;:&quot;https://github.com/fadilamin/NILAI-TAMBAHAN-PBO/blob/main/README.md&quot;,&quot;user_id&quot;:114378281}}" data-hydro-click-hmac="21416f56991adac3841ed83a0b1e8e510d8f211df252ec99d435b7b981ccf2c5" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:572029156,&quot;originating_url&quot;:&quot;https://github.com/fadilamin/NILAI-TAMBAHAN-PBO/blob/main/Lingkaran.java&quot;,&quot;user_id&quot;:114378281}}" data-hydro-click-hmac="040384db36c2998eb214c39b3595b938c509b6eb5774923cf70c0952db005702" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
@@ -2023,13 +2023,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-15b3cc">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-e00090">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-15b3cc"
+        id="filter-menu-e00090"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2050,9 +2050,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/fadilamin/NILAI-TAMBAHAN-PBO/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="4S9wOFRDpqcueiA3R0wDo9RMjFcURvpzH9wZ_tQzSbiO7UCaM_ErldiO_LUsykp9y1pKJXo2lF73UF40Gf3jBQ" autocomplete="off" />
+      <form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/fadilamin/NILAI-TAMBAHAN-PBO/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="gCi6bdtrmqRv6rXjkyr6FQPUEU70KMPeqzOcsj2EXl7v6orPvNkXlpkeaWH4rLPLHMLXPJpYrfNDv9t48Er04w" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:572029156,&quot;originating_url&quot;:&quot;https://github.com/fadilamin/NILAI-TAMBAHAN-PBO/blob/main/README.md&quot;,&quot;user_id&quot;:114378281}}" data-hydro-click-hmac="e052252a28bee910da34b4e9c9c75d45dcc85315c39232fbd897ed2e64fdcc5a" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:572029156,&quot;originating_url&quot;:&quot;https://github.com/fadilamin/NILAI-TAMBAHAN-PBO/blob/main/Lingkaran.java&quot;,&quot;user_id&quot;:114378281}}" data-hydro-click-hmac="ae797ae2fa2adf10cdb258733319cecb6be1fb93e59ce22b1b6e1befea8d57d2" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
@@ -2070,13 +2070,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-15b3cc">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-e00090">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-15b3cc"
+        id="filter-menu-e00090"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2263,7 +2263,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/fadilamin/NILAI-TAMBAHAN-PBO/blob/89290e38a17bd289c4818e4e08d0eb26daec3aef/README.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/fadilamin/NILAI-TAMBAHAN-PBO/blob/89290e38a17bd289c4818e4e08d0eb26daec3aef/Lingkaran.java">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2271,7 +2271,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:572029156,&quot;originating_url&quot;:&quot;https://github.com/fadilamin/NILAI-TAMBAHAN-PBO/blob/main/README.md&quot;,&quot;user_id&quot;:114378281}}" data-hydro-click-hmac="1d49e055f478dfe1cd5a47556fa7921039e5e3948bd1886e56f031a58a35779b">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:572029156,&quot;originating_url&quot;:&quot;https://github.com/fadilamin/NILAI-TAMBAHAN-PBO/blob/main/Lingkaran.java&quot;,&quot;user_id&quot;:114378281}}" data-hydro-click-hmac="d0b99f77450628e5fe50dc2424b693e203c655c6df87777ba030fdd1e1a44a32">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2352,7 +2352,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/fadilamin/NILAI-TAMBAHAN-PBO/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/fadilamin/NILAI-TAMBAHAN-PBO/blob/{{ urlEncodedRefName }}/Lingkaran.java" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2394,7 +2394,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/fadilamin/NILAI-TAMBAHAN-PBO/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/fadilamin/NILAI-TAMBAHAN-PBO/blob/{{ urlEncodedRefName }}/Lingkaran.java" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2455,7 +2455,42 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/fadilamin/NILAI-TAMBAHAN-PBO"><span>NILAI-TAMBAHAN-PBO</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/fadilamin/NILAI-TAMBAHAN-PBO"><span>NILAI-TAMBAHAN-PBO</span></a></span></span><span class="separator">/</span><strong class="final-path">Lingkaran.java</strong>
+      <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
+    <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:572029156,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Java&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/fadilamin/NILAI-TAMBAHAN-PBO/blob/main/Lingkaran.java&quot;,&quot;user_id&quot;:114378281}}" data-hydro-click-hmac="7e872cdcf6bc37d34d05c071a1d43e503bb27689270c2e8e92a27bbf3df1d9a1" data-view-component="true" class="Link--secondary css-truncate btn-link">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
+</svg>
+    <span data-menu-button>Jump to</span>
+    <span class="dropdown-caret"></span>
+</summary>  <details-menu class="SelectMenu SelectMenu--hasFilter" role="menu">
+    <div class="SelectMenu-modal">
+      <header class="SelectMenu-header">
+        <span class="SelectMenu-title">Code definitions</span>
+        <button class="SelectMenu-closeButton" type="button" data-toggle-for="jumpto-symbol-select-menu">
+          <svg aria-label="Close menu" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+        </button>
+      </header>
+      <div class="SelectMenu-list">
+          <div class="SelectMenu-blankslate">
+            <p class="mb-0 color-fg-muted">
+              No definitions found in this file.
+            </p>
+          </div>
+        <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
+        </div>
+      </div>
+      <footer class="SelectMenu-footer">
+        <div class="d-flex flex-justify-between">
+          Code navigation not available for this commit
+          <svg class="octicon octicon-dot-fill text-light-gray" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+        </div>
+      </footer>
+    </div>
+  </details-menu>
+</details>
+
   </h2>
     <a href="/fadilamin/NILAI-TAMBAHAN-PBO/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -2466,7 +2501,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:572029156,&quot;originating_url&quot;:&quot;https://github.com/fadilamin/NILAI-TAMBAHAN-PBO/blob/main/README.md&quot;,&quot;user_id&quot;:114378281}}" data-hydro-click-hmac="7ba4e9b537b15a945cad82adea398ce1733ab95c7370560d7bb43f5a21cfbf78" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/fadilamin/NILAI-TAMBAHAN-PBO/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:572029156,&quot;originating_url&quot;:&quot;https://github.com/fadilamin/NILAI-TAMBAHAN-PBO/blob/main/Lingkaran.java&quot;,&quot;user_id&quot;:114378281}}" data-hydro-click-hmac="381a471927b530f93fca7149c9cc7953c65b94060c99c3e4f8358d4b3416034b" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/fadilamin/NILAI-TAMBAHAN-PBO/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2476,15 +2511,21 @@
               <span class="text-small color-fg-muted" aria-hidden="true">L</span>
             </span>
 </button>        </li>
+        <li data-toggle-for="blob-more-options-details">
+            <button data-toggle-for="jumpto-symbol-select-menu" type="button" data-view-component="true" class="dropdown-item btn-link">    <span class="d-flex flex-items-baseline">
+              <span class="flex-auto">Go to definition</span>
+              <span class="text-small color-fg-muted" aria-hidden="true">R</span>
+            </span>
+</button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="Lingkaran.java" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/fadilamin/NILAI-TAMBAHAN-PBO/blob/89290e38a17bd289c4818e4e08d0eb26daec3aef/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/fadilamin/NILAI-TAMBAHAN-PBO/blob/89290e38a17bd289c4818e4e08d0eb26daec3aef/Lingkaran.java" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2516,17 +2557,80 @@
     <include-fragment src="/fadilamin/NILAI-TAMBAHAN-PBO/spoofed_commit_check/89290e38a17bd289c4818e4e08d0eb26daec3aef" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/fadilamin/NILAI-TAMBAHAN-PBO/contributors/main/README.md" class="commit-loader">
-    <div class="Box-header d-flex flex-items-center">
-      <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
-      <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
-    </div>
+  
+  <div class="Box-header Details js-details-container">
+      <div class="d-flex flex-items-center">
+        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
+          <a rel="author" data-hovercard-type="user" data-hovercard-url="/users/fadilamin/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/fadilamin"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/119416958?s=48&amp;v=4" width="24" height="24" alt="@fadilamin" /></a>
+        </span>
+        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
+          <div class="css-truncate css-truncate-overflow">
+            <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/fadilamin/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/fadilamin">fadilamin</a>
 
-    <div class="Box-body d-flex flex-items-center" >
-      <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
-      <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
-    </div>
-</include-fragment></div>
+              <span class="markdown-title">
+                <a data-pjax="true" title="Add files via upload" class="Link--secondary" href="/fadilamin/NILAI-TAMBAHAN-PBO/commit/89290e38a17bd289c4818e4e08d0eb26daec3aef">Add files via upload</a>
+              </span>
+          </div>
+
+
+          <span class="ml-2">
+            <include-fragment accept="text/fragment+html" src="/fadilamin/NILAI-TAMBAHAN-PBO/commit/89290e38a17bd289c4818e4e08d0eb26daec3aef/rollup?direction=e" class="d-inline"></include-fragment>
+          </span>
+        </div>
+        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
+          <span class="d-none d-md-inline">
+            <span>Latest commit</span>
+            <a class="text-small text-mono Link--secondary" href="/fadilamin/NILAI-TAMBAHAN-PBO/commit/89290e38a17bd289c4818e4e08d0eb26daec3aef" data-pjax>89290e3</a>
+            <span itemprop="dateModified"><relative-time datetime="2022-11-29T12:20:16Z" class="no-wrap">Nov 29, 2022</relative-time></span>
+          </span>
+
+          <a data-pjax href="/fadilamin/NILAI-TAMBAHAN-PBO/commits/main/Lingkaran.java" class="ml-3 no-wrap Link--primary no-underline">
+            <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
+    <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
+</svg>
+            <span class="d-none d-sm-inline">
+              <strong>History</strong>
+            </span>
+          </a>
+        </div>
+      </div>
+
+  </div>
+
+  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
+    <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default float-left mr-3" id="blob_contributors_box">
+      <summary class="Link--primary">
+        <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
+    <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path>
+</svg>
+        <strong>1</strong>
+        
+        contributor
+      </summary>
+      <details-dialog
+        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
+        aria-label="Users who have contributed to this file"
+        src="/fadilamin/NILAI-TAMBAHAN-PBO/contributors-list/main/Lingkaran.java" preload>
+        <div class="Box-header">
+          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+          </button>
+          <h3 class="Box-title">
+            Users who have contributed to this file
+          </h3>
+        </div>
+        <include-fragment>
+          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-3 mx-auto d-block anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+        </include-fragment>
+      </details-dialog>
+    </details>
+  </div>
+</div>
 
 
 
@@ -2550,31 +2654,23 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      1 lines (1 sloc)
+      11 lines (7 sloc)
       <span class="file-info-divider"></span>
-    20 Bytes
+    163 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
-        <div class="BtnGroup">
-      <a href="/fadilamin/NILAI-TAMBAHAN-PBO/blob/main/README.md?plain=1" data-permalink-href="/fadilamin/NILAI-TAMBAHAN-PBO/blob/89290e38a17bd289c4818e4e08d0eb26daec3aef/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
-    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
-</svg>
-</a>      <a href="/fadilamin/NILAI-TAMBAHAN-PBO/blob/main/README.md" data-permalink-href="/fadilamin/NILAI-TAMBAHAN-PBO/blob/89290e38a17bd289c4818e4e08d0eb26daec3aef/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
-    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 00.25-.25V6h-2.75A1.75 1.75 0 019 4.25V1.5H3.75zm6.75.062V4.25c0 .138.112.25.25.25h2.688a.252.252 0 00-.011-.013l-2.914-2.914a.272.272 0 00-.013-.011zM2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16h-9.5A1.75 1.75 0 012 14.25V1.75z"></path>
-</svg>
-</a>  </div>
-
+      
 
     <div class="BtnGroup">
-        <a data-permalink-href="/fadilamin/NILAI-TAMBAHAN-PBO/raw/89290e38a17bd289c4818e4e08d0eb26daec3aef/README.md" href="/fadilamin/NILAI-TAMBAHAN-PBO/raw/main/README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/fadilamin/NILAI-TAMBAHAN-PBO/blame/89290e38a17bd289c4818e4e08d0eb26daec3aef/README.md" href="/fadilamin/NILAI-TAMBAHAN-PBO/blame/main/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/fadilamin/NILAI-TAMBAHAN-PBO/raw/89290e38a17bd289c4818e4e08d0eb26daec3aef/Lingkaran.java" href="/fadilamin/NILAI-TAMBAHAN-PBO/raw/main/Lingkaran.java" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/fadilamin/NILAI-TAMBAHAN-PBO/blame/89290e38a17bd289c4818e4e08d0eb26daec3aef/Lingkaran.java" href="/fadilamin/NILAI-TAMBAHAN-PBO/blame/main/Lingkaran.java" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/fadilamin/NILAI-TAMBAHAN-PBO/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="IEUrAerdaOtZ06i9lH9dAG8p2Ep2X5auFqM7JZE2qFImj5FhyBUj5iRkW5QmWJBTj2YtCzgjo1Gct5R7NCv07Q" autocomplete="off" />
+  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/fadilamin/NILAI-TAMBAHAN-PBO/edit/main/Lingkaran.java" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="OWWFDUz0UuWxLsplJJ31pqN4VxZC4nubXw6V9xa6lxwDVcHKBBIqz153FENaNxPwjX0sXbTDsnroxMZDjiCV_g" autocomplete="off" />
       <button title="Fork this repository and edit the file" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -2584,7 +2680,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/fadilamin/NILAI-TAMBAHAN-PBO/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ANJSNTh6gPQIzaAYjd9m-ymvyLX9njaT10Wn7k0mkrEGGOhVGrLL-XV6UzE_-KuoyeA99LPiA2xdUQiw6DvODg" autocomplete="off" />
+          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/fadilamin/NILAI-TAMBAHAN-PBO/edit/main/Lingkaran.java" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="HqmP2yabtgupr_MEUeAxgokNR-1kkeEPWEmfX3sict0kmcscbn3OIUb2LSIvStfUpwg8ppKwKO7vg8zr47hwPw" autocomplete="off" />
               <button title="Fork this repository and edit the file" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2603,10 +2699,10 @@
 
         
 <div data-test-selector="remote-clipboard-copy">
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/fadilamin/NILAI-TAMBAHAN-PBO/raw/89290e38a17bd289c4818e4e08d0eb26daec3aef/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/fadilamin/NILAI-TAMBAHAN-PBO/raw/89290e38a17bd289c4818e4e08d0eb26daec3aef/Lingkaran.java" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:572029156,&quot;originating_url&quot;:&quot;https://github.com/fadilamin/NILAI-TAMBAHAN-PBO/blob/main/README.md&quot;,&quot;user_id&quot;:114378281}}" data-hydro-click-hmac="df93ac9b56c92ab695da6ddfe10e66ef7e82fdf7c30a47e448795abf8f1886e7" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:572029156,&quot;originating_url&quot;:&quot;https://github.com/fadilamin/NILAI-TAMBAHAN-PBO/blob/main/Lingkaran.java&quot;,&quot;user_id&quot;:114378281}}" data-hydro-click-hmac="f4470ca8216e38bc4a68d6353848523c3bc51af55308a7618f1c170d549daae3" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2631,7 +2727,7 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/fadilamin/NILAI-TAMBAHAN-PBO/delete/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="BVoKz3YD8iwe9KFNm5zCl-jFg2v2KBibxnoWk6FJ8YmSYAwYrOpUxy-yQazIZRO24LnIKdFp49v-yUh6IeE4UQ" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/fadilamin/NILAI-TAMBAHAN-PBO/delete/main/Lingkaran.java" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="leTYRQRSu2783rnLqJEPJCkGioW3vNKApjPCcmEsvABTf3aEr3AHFw7XqVFjLELVkivEsWsDRxoO21CfOyAfiQ" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this repository and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2664,15 +2760,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/fadilamin/NILAI-TAMBAHAN-PBO/raw/main/README.md">
+            <a class="dropdown-item" href="/fadilamin/NILAI-TAMBAHAN-PBO/raw/main/Lingkaran.java">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/fadilamin/NILAI-TAMBAHAN-PBO/raw/main/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/fadilamin/NILAI-TAMBAHAN-PBO/raw/main/Lingkaran.java" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:572029156,&quot;originating_url&quot;:&quot;https://github.com/fadilamin/NILAI-TAMBAHAN-PBO/blob/main/README.md&quot;,&quot;user_id&quot;:114378281}}" data-hydro-click-hmac="df93ac9b56c92ab695da6ddfe10e66ef7e82fdf7c30a47e448795abf8f1886e7">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:572029156,&quot;originating_url&quot;:&quot;https://github.com/fadilamin/NILAI-TAMBAHAN-PBO/blob/main/Lingkaran.java&quot;,&quot;user_id&quot;:114378281}}" data-hydro-click-hmac="f4470ca8216e38bc4a68d6353848523c3bc51af55308a7618f1c170d549daae3">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2695,20 +2791,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/fadilamin/NILAI-TAMBAHAN-PBO/blame/main/README.md">
+              <a class="dropdown-item" href="/fadilamin/NILAI-TAMBAHAN-PBO/blame/main/Lingkaran.java">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/fadilamin/NILAI-TAMBAHAN-PBO/edit/main/README.md">Edit file</a>
+                <a class="dropdown-item" href="/fadilamin/NILAI-TAMBAHAN-PBO/edit/main/Lingkaran.java">Edit file</a>
               </li>
                 <li>
                   <a class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click" data-test-selector="small-screen-github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:572029156,&quot;actor_id&quot;:114378281,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/fadilamin/NILAI-TAMBAHAN-PBO/delete/main/README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/fadilamin/NILAI-TAMBAHAN-PBO/delete/main/Lingkaran.java">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2716,10 +2812,113 @@
 </div>
 
 
-        <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-nilai-tambahan-pbo" class="anchor" aria-hidden="true" href="#nilai-tambahan-pbo"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>NILAI-TAMBAHAN-PBO</h1>
-</article>
-  </div>
+      
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-java  gist-border-0">
+
+        
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+  
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+</span></template>
+
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="Java" data-tagsearch-path="Lingkaran.java">
+        <tr>
+          <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-k>package</span> <span class=pl-s1>lingkaran</span>;</td>
+        </tr>
+        <tr>
+          <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class=pl-k>public</span> <span class=pl-k>interface</span> <span class=pl-smi>Lingkaran</span> {</td>
+        </tr>
+        <tr>
+          <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line">    <span class=pl-smi>int</span> <span class=pl-c1>PANJANG</span> = <span class=pl-c1>12</span>;</td>
+        </tr>
+        <tr>
+          <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line">    <span class=pl-smi>int</span> <span class=pl-c1>LEBAR</span> = <span class=pl-c1>7</span>;</td>
+        </tr>
+        <tr>
+          <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line">    </td>
+        </tr>
+        <tr>
+          <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line">    <span class=pl-smi>void</span> <span class=pl-en>hitungLuas</span>();</td>
+        </tr>
+        <tr>
+          <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line">    <span class=pl-smi>void</span> <span class=pl-en>tampilkanLuas</span>();</td>
+        </tr>
+        <tr>
+          <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line">    </td>
+        </tr>
+  </table>
+</div>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 color-bg-default border color-border-default rounded-2" aria-label="Inline file action toolbar">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+</svg>
+    </summary>
+    <details-menu>
+
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se ml-2 mt-2"
+      style="width:185px"
+      >
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" aria-label="Copy lines">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" aria-label="Copy permalink">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/fadilamin/NILAI-TAMBAHAN-PBO/blame/89290e38a17bd289c4818e4e08d0eb26daec3aef/Lingkaran.java">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/fadilamin/NILAI-TAMBAHAN-PBO/issues/new">Reference in new issue</a></li>
+      </ul>
+    </details-menu>
+  </details>
+
+    </div>
 
     </div>
 
@@ -2735,6 +2934,17 @@
 </button>
 </form>    </details-dialog>
   </details>
+
+    <div class="Popover anim-scale-in js-tagsearch-popover"
+     hidden
+     data-tagsearch-url="/fadilamin/NILAI-TAMBAHAN-PBO/find-definition"
+     data-tagsearch-ref="main"
+     data-tagsearch-code-nav-context="BLOB_VIEW">
+  <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
+    <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
+    </div>
+  </div>
+</div>
 
 
 
